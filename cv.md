@@ -1,12 +1,36 @@
 # Alexandr Ryakhov
 
+## Contacts
 Located in **Saint Petersburg**
-**+7 981 181 54 33  
-[sandelete@gmail.com](mailto:sandelete@gmail.com)**
+Telegram **@sandelete(https://t.me/Sandelete)**
+Phone **+7 981 181 54 33(+79811815433)**
+Mail **[sandelete@gmail.com](mailto:sandelete@gmail.com)**
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Summary
+I am beginner digital designer and front-end developer. 
+I have a genuine passion for inspiring design and innovative technology and i  want to solve problems with clean code and good design.
+
+## Skills
+* CSS
+* HTML
+* JavaScript
+* Git
+* Sass
+* Photoshop
+* Illustrator
+* Figma
+* Typography
+* UI/UX
+
+## Code examples
+https://github.com/sandelete/Northern
+
+## Experience
+One year of web and polygraphy design
+
+## Education
+Only self-education
+
+## English
+**B1**
+I can watch simple videos and read documentation
