@@ -1,0 +1,94 @@
+.section-outer {
+  margin: 0 auto;
+  max-width: 650px;
+  font-family: 'Montserrat', sans-serif;
+  color: #333333; }
+
+.contacts {
+  margin-top: 30px; }
+  .contacts .section-inner {
+    display: flex;
+    height: 250px; }
+    @media (max-width: 640px) {
+      .contacts .section-inner {
+        flex-direction: column;
+        height: auto; } }
+    .contacts .section-inner img {
+      height: 100%;
+      border: 2px solid #E5E5E5;
+      border-radius: 20px;
+      margin-right: 20px; }
+      @media (max-width: 640px) {
+        .contacts .section-inner img {
+          display: none; } }
+    .contacts .section-inner .description {
+      width: 100%; }
+      .contacts .section-inner .description h1 {
+        font-size: 36px;
+        font-weight: 600;
+        margin: 0; }
+      .contacts .section-inner .description .line {
+        height: 2px;
+        width: 100%;
+        background-color: #E5E5E5;
+        margin: 5px 0 0; }
+      .contacts .section-inner .description h2 {
+        margin: 10px 0 0; }
+      .contacts .section-inner .description a {
+        text-decoration: none;
+        font-weight: 600;
+        color: #887799; }
+
+.summary .line {
+  height: 2px;
+  width: 100%;
+  background-color: #E5E5E5;
+  margin: 15px 0 0; }
+
+.summary h2 {
+  margin: 20px 0 0; }
+
+.summary p {
+  line-height: 24px;
+  margin: 5px 0 0;
+  width: 90%; }
+
+.skills h2 {
+  margin: 20px 0 5px; }
+
+.skills ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+  .skills ul li {
+    border: 2px solid #E5E5E5;
+    border-radius: 5px;
+    min-width: 120px;
+    text-align: center;
+    line-height: 36px;
+    margin: 5px; }
+
+.additional-info {
+  padding: 0 0 30px; }
+  .additional-info h2 {
+    margin: 20px 0 5px; }
+  .additional-info .cards {
+    display: flex;
+    flex-wrap: wrap; }
+    .additional-info .cards .card {
+      width: 280px;
+      border: 2px solid #E5E5E5;
+      border-radius: 5px;
+      padding: 10px 10px 15px 15px;
+      margin: 5px; }
+      .additional-info .cards .card h3 {
+        margin: 0;
+        padding: 0 0 3px; }
+      .additional-info .cards .card p {
+        margin: 0; }
+      .additional-info .cards .card a {
+        text-decoration: none;
+        font-weight: 600;
+        color: #887799; }
