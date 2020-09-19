@@ -1,1 +1,1 @@
-https://sandelete.github.io/rsschool-cv/cv
+https://sandelete.github.io/rsschool-cv/
